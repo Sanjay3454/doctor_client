@@ -1,0 +1,48 @@
+.input-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .input {
+    min-height: 50px;
+
+    padding: 0 1rem;
+    color: #000000;
+    font-size: 15px;
+    border: 1px solid #5e4dcd;
+    border-radius: 6px 0 0 6px;
+    background-color: transparent;
+  }
+  
+  .button--submit {
+    min-height: 50px;
+    padding: .5em 1em;
+    border: none;
+    border-radius: 0 6px 6px 0;
+    background-color: #5e4dcd;
+    color: #e4e3e3;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color .3s ease-in-out;
+  }
+  
+  .button--submit:hover {
+    background-color: #5e5dcd;
+  }
+  
+  .input:focus, .input:focus-visible {
+    border-color: #3898EC;
+    outline: none;
+  }
+  .b1{
+    background-image: url(https://i.postimg.cc/gkpHYnjh/istockphoto-619636894-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .b1{
+    background-image: url(https://i.postimg.cc/kXsmXRJR/abstract-blur-medical-and-clinic-of-hospital-interior-free-photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

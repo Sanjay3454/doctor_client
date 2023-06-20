@@ -1,0 +1,11 @@
+.login-button{
+  width: 5rem;
+  height: 2rem;
+  border-radius: 5px;
+  background-color:aquamarine;
+}
+.a1{
+  background-image: url(https://i.postimg.cc/gkpHYnjh/istockphoto-619636894-612x612.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
